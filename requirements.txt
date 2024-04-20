@@ -1,0 +1,8 @@
+xtuner==0.1.17
+streamlit==1.24.0
+gradio==4.10.0
+transformers
+sentencepiece
+einops
+accelerate
+tiktoken
